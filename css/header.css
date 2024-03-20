@@ -1,0 +1,403 @@
+.inicio{
+    max-width: 30rem;
+    margin: auto;
+    padding: 1rem;
+}
+
+
+img{
+    width: 30rem;
+}
+
+.sobre img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 200px;
+    padding: 145px;
+    margin-top: -250px;
+    justify-content: center;
+}
+
+.titulo{
+    position: absolute;
+    top: 400px;
+    padding: 155px;
+    margin-top: -260px;
+    color: white;
+}
+
+.linea{
+    position: absolute;
+    top: 500px;
+    padding: 100px;
+    margin-top: -260px;
+    color: white; 
+}
+
+
+.boton img{
+    width: 256px;
+    height: 43px;
+    position: absolute;
+    top: 540px;
+    padding: 115px;
+    margin-top: -250px;
+    justify-content: center;
+}
+
+
+.inicial{
+    max-width: 30rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 32rem;
+}
+
+.grid1-2{
+    max-width: 30rem;
+    display: grid;
+    grid-template-columns: 10.8rem 19.2rem;
+    margin-left: 32rem;
+
+}
+
+.grid-img{
+    border-radius: 0.5rem;
+    height: 10.8rem;
+    width: 10.8rem;
+}
+
+.grid-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.grid-info{
+    margin-left: 0.5rem;
+}
+
+.grid-info h1{
+    font-size: 1.4rem;
+}
+
+.grid-info p{
+    font-size: 1.2rem;
+}
+
+.grid-precios{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.precio-1{
+    width: 12.8rem;
+    height: 2.4rem;
+    display: flex;
+    align-items: center;
+}
+
+.precio-1 h1{
+    font-size: 1.6rem;
+}
+
+.precio-2{
+    width: 2.5rem;
+    height: 2.4rem;
+    border-radius: 0.5rem;
+}
+
+.precio-2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+
+
+.grid2-2{
+    max-width: 30rem;
+    display: grid;
+    grid-template-columns: 10.8rem 19.2rem;
+    margin-left: 32rem;
+
+}
+
+.grid2-img{
+    border-radius: 0.5rem;
+    height: 10.8rem;
+    width: 10.8rem;
+}
+
+.grid2-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.grid-info2{
+    margin-left: 0.5rem;
+}
+
+.grid-info2 h1{
+    font-size: 1.4rem;
+}
+
+.grid-info2 p{
+    font-size: 1.2rem;
+}
+
+.grid-precios2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.precio-2{
+    width: 12.8rem;
+    height: 2.4rem;
+    display: flex;
+    align-items: center;
+}
+
+.precio-2 h1{
+    font-size: 1.6rem;
+}
+
+.precio-2-2{
+    width: 2.5rem;
+    height: 2.4rem;
+    border-radius: 0.5rem;
+}
+
+.precio-2-2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+
+.grid2-3{
+    max-width: 30rem;
+    display: grid;
+    grid-template-columns: 10.8rem 19.2rem;
+    margin-left: 32rem;
+
+}
+
+.grid3-img{
+    border-radius: 0.5rem;
+    height: 10.8rem;
+    width: 10.8rem;
+}
+
+.grid3-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.grid-info3{
+    margin-left: 0.5rem;
+}
+
+.grid-info3 h1{
+    font-size: 1.4rem;
+}
+
+.grid-info3 p{
+    font-size: 1.2rem;
+}
+
+.grid-precios3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.precio-3{
+    width: 12.8rem;
+    height: 2.4rem;
+    display: flex;
+    align-items: center;
+}
+
+.precio-3 h1{
+    font-size: 1.6rem;
+}
+
+.precio-2-3{
+    width: 2.5rem;
+    height: 2.4rem;
+    border-radius: 0.5rem;
+}
+
+.precio-2-3 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+
+
+.grid2-4{
+    max-width: 30rem;
+    display: grid;
+    grid-template-columns: 10.8rem 19.2rem;
+    margin-left: 32rem;
+
+}
+
+.grid4-img{
+    border-radius: 0.5rem;
+    height: 10.8rem;
+    width: 10.8rem;
+}
+
+.grid4-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.grid-info4{
+    margin-left: 0.5rem;
+}
+
+.grid-info4 h1{
+    font-size: 1.4rem;
+}
+
+.grid-info4 p{
+    font-size: 1.2rem;
+}
+
+.grid-precios4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.precio-4{
+    width: 12.8rem;
+    height: 2.4rem;
+    display: flex;
+    align-items: center;
+}
+
+.precio-4 h1{
+    font-size: 1.6rem;
+}
+
+.precio-2-4{
+    width: 2.5rem;
+    height: 2.4rem;
+    border-radius: 0.5rem;
+}
+
+.precio-2-4 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+
+
+.bebida{
+    max-width: 30rem;
+    display: flex;
+    justify-content: left;
+    margin-left: 32rem;
+}
+
+
+
+.grid2-5{
+    max-width: 30rem;
+    display: grid;
+    grid-template-columns: 10.8rem 19.2rem;
+    margin-left: 32rem;
+
+}
+
+.grid5-img{
+    border-radius: 0.5rem;
+    height: 10.8rem;
+    width: 10.8rem;
+}
+
+.grid5-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.grid-info5{
+    margin-left: 0.5rem;
+}
+
+.grid-info5 h1{
+    font-size: 1.4rem;
+}
+
+.grid-precios5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.precio-5{
+    width: 12.8rem;
+    height: 2.4rem;
+    display: flex;
+    align-items: center;
+}
+
+.precio-5 h1{
+    font-size: 1.6rem;
+}
+
+.precio-2-5{
+    width: 2.5rem;
+    height: 2.4rem;
+    border-radius: 0.5rem;
+}
+
+.precio-2-5 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+
+.final{
+    max-width: 30rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 32rem;
+}
+
+.grid-final{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.precio-2-6-2 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
